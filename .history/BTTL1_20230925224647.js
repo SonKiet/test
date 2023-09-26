@@ -163,11 +163,10 @@ function bai_tap_10() {
     PROCESS : In ra n số fibnacci đầu tiên
     OUTPUT  : 
 */
-function bai_tap_12(num) {
-    for (let i = 1; i <= num; i++) {
-        if (i % 1 == 0 && i % i == 0) {
-            console.log(i);
-        }
-    }
+function bai_tap_11(n) {
+    /* 
+        PROCESS
+    */
+
+
 }
-bai_tap_12(10);
